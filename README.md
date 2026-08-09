@@ -1,21 +1,21 @@
 # 🏕️ Category Revenue Performance Dashboard
 
-An interactive Power BI report analyzing revenue, profitability, and sales channels across three product categories — **Camping Equipment**, **Mountaineering Equipment**, and **Outdoor Protection** — selectable via a chiclet slicer at the top of the report.
+This is an interactive Power BI report analyzing revenue, profitability, and sales channels across three product categories — **Camping Equipment**, **Mountaineering Equipment**, and **Outdoor Protection** — selectable via a chiclet slicer at the top of the report.
 
 ---
 
 ## 📑 Table of Contents
 
-1. [Project Overview](#-project-overview)
-2. [Business Problem](#-business-problem)
-3. [Project Objectives](#-project-objectives)
-4. [Datasets](#-datasets)
-5. [Dashboard Preview](#-dashboard-preview)
-6. [KPIs](#-kpis)
-7. [Business Questions & Insights](#-business-questions--insights)
-8. [Business Insight](#-business-insight)
-9. [Strategic Recommendations](#-strategic-recommendations)
-10. [Future Improvements](#-future-improvements)
+1. Project Overview
+2. Business Problem
+3. Project Objectives
+4. Datasets
+5. Dashboard Preview
+6. KPIs
+7. Business Questions & Insights
+8. Business Insight
+9. Strategic Recommendations
+10. Future Improvements
 
 ---
 
@@ -53,15 +53,13 @@ The report is built from retail sales data for outdoor and camping-related produ
 |---|---|
 | **Sales / Orders** | Product Name, **Category (Camping Equipment / Mountaineering Equipment / Outdoor Protection)** — drives the chiclet slicer, Revenue, COGS, Profit, Month, Year |
 | **Retailers** | Retailer City, Retailer Type, Revenue, Profit |
-| **Purchase Context** | Urgency Flag (Urgent / Not Urgent), Revenue by Urgency |
-
-*Note: Update this section with the actual source system(s) and file names/paths used (e.g., CSV exports, Excel workbook, SQL database) once finalized.*
+| **Purchase Context** | Urgency (Urgent / Not Urgent), Revenue by Method type |
 
 ## 🖼 Dashboard Preview
 
 *Shown with the **Outdoor Protection** chiclet selected — clicking Camping Equipment or Mountaineering Equipment refreshes every visual on the page for that category instead.*
 
-![Revenue Dashboard – Outdoor Protection view](./outdoor_screenshots/revenue-dashboard.png)
+![Revenue Dashboard – Outdoor Protection view](REVENUE REPORT DASHBOARD.png)
 
 ## 📊 KPIs
 
