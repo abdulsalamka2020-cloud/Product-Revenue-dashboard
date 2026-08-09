@@ -109,12 +109,16 @@ Warehouse Store leads at $2.25M, ahead of Direct Marketing ($1.79M), Outdoors Sh
 
 ## 🚀 Future Improvements
 
-- Add a **year-over-year comparison** view once multiple years of data are available (the Year filter currently defaults to "All").
-- Introduce **forecasting** for monthly revenue to anticipate the seasonal dip and plan ahead.
-- Add a **side-by-side cross-category comparison** view (Camping Equipment vs. Mountaineering Equipment vs. Outdoor Protection together), since the chiclet slicer currently only shows one category at a time.
-- Break down **urgency segmentation by product and retailer city** to find where reactive buying is concentrated.
-- Add **customer-level data** (repeat purchase rate, loyalty tier) to connect retailer performance to customer retention.
-- Set up **automated data refresh** via Power Query/Power BI Service scheduled refresh.
+*Longer-term moves the business could pursue based on what this dashboard reveals — beyond the immediate actions in Strategic Recommendations above.*
+
+- **Reduce seasonal dependency** by expanding into complementary outdoor categories (e.g., winter or water sports gear) that peak in different months than the current July high point.
+- **Cut product concentration risk** by developing 2–3 more "hero" products so the category isn't overly reliant on a single SKU for revenue.
+- **Build a direct-to-consumer channel** (e-commerce/DTC) to complement Warehouse Store and Direct Marketing, capturing more margin and first-party customer data.
+- **Launch a loyalty or subscription program** aimed at the ~66% of customers who buy proactively, encouraging repeat, pre-season purchases rather than one-off transactions.
+- **Deepen presence in underperforming but promising retailer cities** — use Calgary and Beijing's success as a playbook for cities further down the list.
+- **Explore private-label or bundled outdoor-protection kits** to improve margin further on top of the already-strong 61.91% profit margin.
+- **Strengthen supplier partnerships** to secure better costs and supply reliability heading into the seasonal peak, protecting margin during ramp-up months.
+- **Test category cross-selling** (e.g., bundling Outdoor Protection items with Camping Equipment purchases) to lift average order value across categories.
 
 ---
 
