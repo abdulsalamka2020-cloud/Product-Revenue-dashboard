@@ -59,7 +59,7 @@ The report is built from retail sales data for outdoor and camping-related produ
 
 *Shown with the **Outdoor Protection** chiclet selected — clicking Camping Equipment or Mountaineering Equipment refreshes every visual on the page for that category instead.*
 
-![Revenue Dashboard – Outdoor Protection view](REVENUE REPORT DASHBOARD.png)
+![Revenue Dashboard – Outdoor Protection view](Revenue-report-dashboard.png)
 
 ## 📊 KPIs
 
